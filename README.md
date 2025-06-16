@@ -1,4 +1,4 @@
-Dialysis Hypotension Risk Prediction Model 
+Dialysis Prediction Model 
 
 I trained an XGBoost Classifier to predict whether a patient is hypertensive (yes/no) based on various dialysis-related medical parameters.
 XGBoost (eXtreme Gradient Boosting) is an open-source machine learning algorithm known for its speed, accuracy, and ability to handle large datasets with mixed data types (categorical, numerical, etc.).
